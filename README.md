@@ -1,7 +1,9 @@
 # design-interfaces
 material de apoio sendo usado nas aulas de Design de interfaces da turma de Programado Web do senac 2015
 
-O projeto consiste em desenvolver site de *e-commerce* de produtos direcionados ao público *gamer*
+O projeto consiste em desenvolver site de "*e-commerce*" de produtos direcionados ao público "*gamer*".
+
+**IDE usada no curso:** [Brackets Portable](http://sourceforge.net/projects/bracketsportable/)
 ### O material contém:
 - CSS
 - HTML
@@ -13,6 +15,7 @@ O projeto consiste em desenvolver site de *e-commerce* de produtos direcionados 
 arvore de diretórios
 .
 ├── index.html
+├── .brackets.json
 ├── css
 |   └── estilo.css
 ├── js
@@ -20,3 +23,5 @@ arvore de diretórios
 └── scss
 ```
 *Esta estrutura de arquivos será sempre atualizada a cada commit caso seja incluído mais algum arquivo/diretório.*
+
+**Obs:** O diretório **scss** tem seu uso opcional.
