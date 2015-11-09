@@ -20,8 +20,4 @@ arvore de diretórios
 ├── js
 └── img
 ```
-<<<<<<< HEAD
 *Esta estrutura de arquivos será sempre atualizada a cada commit caso seja incluído mais algum arquivo/diretório.*
-=======
-*Esta estrutura de arquivos será sempre atualizada a cada commit caso seja incluído mais algum arquivo/diretório.*
->>>>>>> origin/master
