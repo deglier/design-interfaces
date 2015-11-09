@@ -6,8 +6,9 @@
 }
 
 body {
-    background-image: url(../img/bg.png);
+    background-image: url("../img/bg.png");
 }
+
 .container,
 .container header,
 .container nav,
@@ -37,13 +38,13 @@ body {
     background-color: #fff;
 }
 
-.container footer {
-    height: 450px;
-}
-
 .container nav,
 .container footer {
     background-color: #4b0686;
+}
+
+.container footer {
+    height: 450px;
 }
 
 .logo img {
