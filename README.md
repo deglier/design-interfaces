@@ -15,10 +15,13 @@ O projeto consiste em desenvolver site de "*e-commerce*" de produtos direcionado
 arvore de diretórios
 .
 ├── index.html
-├── .brackets.json
 ├── css
 |   └── estilo.css
 ├── js
 └── img
 ```
+<<<<<<< HEAD
 *Esta estrutura de arquivos será sempre atualizada a cada commit caso seja incluído mais algum arquivo/diretório.*
+=======
+*Esta estrutura de arquivos será sempre atualizada a cada commit caso seja incluído mais algum arquivo/diretório.*
+>>>>>>> origin/master
