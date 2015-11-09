@@ -15,7 +15,6 @@ O projeto consiste em desenvolver site de "*e-commerce*" de produtos direcionado
 arvore de diretórios
 .
 ├── index.html
-├── .brackets.json
 ├── css
 |   └── estilo.css
 ├── js
