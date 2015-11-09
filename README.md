@@ -22,9 +22,3 @@ arvore de diretórios
 └── scss
 ```
 *Esta estrutura de arquivos será sempre atualizada a cada commit caso seja incluído mais algum arquivo/diretório.*
-
-**Obs¹:** O diretório `scss` tem seu uso opcional.
-
-**Obs²:** O arquivo `.brackets.json` é responsável pela configuração e compilação do sass.
-
-**Obs³:** Fazendo uso do sass é nescessário ter instalado do brackets a extensão [brackets-sass](https://github.com/jasonsanjose/brackets-sass) para compilar.
